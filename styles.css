@@ -16,7 +16,7 @@ html { scroll-behavior: smooth; }
 body {
   background: var(--navy);
   color: var(--cream);
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Marcellus', serif;
   font-weight: 300;
   -webkit-font-smoothing: antialiased;
 }
@@ -957,7 +957,7 @@ footer {
   padding: 0 1.5rem;
 }
 .jump-nav a {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Marcellus', serif;
   font-size: 0.72rem;
   letter-spacing: 0.18em;
   text-transform: uppercase;
@@ -970,7 +970,7 @@ footer {
 .jump-nav a:hover { border-color: var(--gold-lt); }
 .series { scroll-margin-top: 90px; }
 .rd-num {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Marcellus', serif;
   font-size: 0.62rem;
   letter-spacing: 0.22em;
   color: #7d8fa5;
